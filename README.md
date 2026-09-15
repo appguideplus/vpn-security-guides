@@ -13,7 +13,7 @@ NordVPN, Surfshark, Proton VPN의 연결 안내와 Proton Pass 비밀번호 관�
 
 | 서비스 소개 | 단계별 가이드 |
 | --- | --- |
-| [NordVPN 요금제 선택: 결제 기간·갱신·기기 수 안내](nordvpn.ko.md) | [NordVPN 연결 후 사이트가 안 열릴 때](nordvpn-connection.ko.md) |
+| [NordVPN 요금제 선택: 결제 기간·갱신·기기 수 안내](nordvpn.ko.md) | [NordVPN 설치: PC·Android·아이폰에서 시작하기](nordvpn-setup.ko.md)<br>[NordVPN 연결 후 사이트가 안 열릴 때](nordvpn-connection.ko.md) |
 | [Surfshark 요금제: Starter·One 선택과 기기 연결 안내](surfshark.ko.md) | [Surfshark Bypasser 설정: 특정 앱만 VPN에서 제외하기](surfshark-bypasser.ko.md)<br>[Surfshark 첫 연결과 자동 연결 설정](surfshark-setup.ko.md) |
 | [Proton VPN 무료·Plus 비교: 기기 수와 서버 선택](proton-vpn.ko.md) | [Proton VPN 시작하기: 무료 계정과 앱 연결](proton-vpn-getting-started.ko.md) |
 

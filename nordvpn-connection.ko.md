@@ -30,6 +30,8 @@ Session Limit Reached가 표시되면 연결된 기기와 세션을 확인합니
 
 ## 함께 볼 안내
 
+- [NordVPN 설치: PC·Android·아이폰에서 시작하기](nordvpn-setup.ko.md)
+
 - [NordVPN 요금제 선택: 결제 기간·갱신·기기 수 안내](nordvpn.ko.md)
 
 ## 출처와 확인일
@@ -37,6 +39,6 @@ Session Limit Reached가 표시되면 연결된 기기와 세션을 확인합니
 - [특정 사이트·앱 연결 문제](https://support.nordvpn.com/hc/en-us/articles/20095679510801-I-can-t-access-websites-or-apps-are-not-working-with-NordVPN)
 - [연결 세션 한도 오류](https://support.nordvpn.com/hc/en-us/articles/47181405478417-I-get-the-Session-Limit-Reached-error-on-NordVPN)
 
-내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
+내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-15.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
