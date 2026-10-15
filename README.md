@@ -24,6 +24,12 @@ NordVPN, Surfshark, Proton VPN의 연결 안내와 NordPass·Proton Pass 비밀�
 | [NordPass 무료·Premium 차이: 기기 제한과 선택 기준](https://appguideplus.com/ko/nordpass/?utm_source=github) | [NordPass 첫 설정: 비밀번호 가져오기·복구 코드·기기 전환](https://appguideplus.com/ko/nordpass/getting-started/?utm_source=github) |
 | [Proton Pass 무료·Plus 비교: 비밀번호와 이메일 별칭 관리](proton-pass.ko.md) | [Proton Pass로 비밀번호 옮기기와 자동완성 확인](proton-pass-import-and-autofill.ko.md) |
 
+## Chrome 비밀번호를 NordPass로 옮길 때
+
+Chrome에서 CSV를 내보내 NordPass로 가져온 뒤, 자주 쓰는 사이트에 실제로 로그인해 보세요. 확인 전에는 Chrome의 원래 항목을 지우지 말고, 가져오기가 끝나면 내보낸 CSV를 정리하세요.
+
+[Chrome 내보내기·가져오기 순서](https://appguideplus.com/ko/nordpass/getting-started/?utm_source=github)
+
 ## 출처와 업데이트
 
 각 글에서 공식 도움말 출처와 내용 확인일을 확인할 수 있습니다. AppGuide+가 작성한 독립 가이드이며 각 서비스의 공식 고객센터는 아닙니다.
