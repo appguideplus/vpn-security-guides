@@ -72,7 +72,9 @@ Chrome에서 CSV를 내보내 NordPass로 가져온 뒤, 자주 쓰는 사이트
 
 
 
-[구독료 비교 계산기](https://appguideplus.com/ko/tools/subscription-cost/?utm_source=github)에 첫 결제와 갱신의 총액·개월 수를 넣어 같은 기간의 선결제 합계를 비교하세요. 예를 들어 27개월 할인과 12개월 갱신은 월 환산 가격만 비교하면 다음 결제 차이를 놓칠 수 있습니다.
+[구독료 비교 계산기](https://appguideplus.com/ko/tools/subscription-cost/?utm_source=github)에서 NordVPN Basic·Complete와 Surfshark Starter·One 중 두 상품과 12·27·36개월을 선택하세요. 가격 입력 없이 같은 기간의 선결제 합계를 비교할 수 있습니다. 미리 제공하는 가격은 2026-10-23에 확인한 한국 원화 세전 기록이며 실시간 견적은 아닙니다.
+
+다른 구독이나 가격은 ‘다른 가격을 직접 입력해 비교’를 열어 첫 결제와 갱신의 총액·개월 수를 입력하세요. 예를 들어 27개월 할인과 12개월 갱신은 월 환산 가격만 비교하면 다음 결제 차이를 놓칠 수 있습니다.
 
 
 
