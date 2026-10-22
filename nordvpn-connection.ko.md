@@ -1,6 +1,6 @@
 # NordVPN 연결 후 사이트가 안 열릴 때
 
-VPN 자체가 연결되지 않는 경우와 연결 후 특정 사이트만 안 되는 경우를 나누어 확인하세요. 유료 플랜을 바꾸기 전에 문제 범위를 좁히는 것이 먼저입니다.
+VPN 자체가 연결되지 않는 경우와 연결 후 특정 사이트만 안 되는 경우를 나누어 확인하세요. 유료 플랜을 바꾸기 전에 문제 범위부터 좁히세요.
 
 [NordVPN](nordvpn.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/nordvpn/connection/)
 
