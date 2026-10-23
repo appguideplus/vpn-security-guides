@@ -1,14 +1,25 @@
+![AppGuide+ VPN & PASSWORDS](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # NordVPN 설치: PC·Android·아이폰에서 시작하기
 
 이미 구독했다면 다시 구매할 필요 없이 기기에 맞는 앱을 설치하고 같은 Nord 계정으로 로그인하세요. 공식 설치 안내와 첫 연결 때 확인할 항목을 모았습니다.
 
-[NordVPN 선택 기준](nordvpn.ko.md) · [VPN 가이드 목차](README.md) · [웹에서 보기](https://appguideplus.com/ko/nordvpn/setup/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/nordvpn/setup/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 어디에서 설치하나요?
 
 컴퓨터는 전체 기기 설치 안내에서 Windows·macOS·Linux 중 자신의 운영체제를 선택하세요. 휴대폰은 아래 Android 또는 iPhone·iPad 링크로 들어가면 공식 앱과 설치 안내를 볼 수 있습니다.
 
 설치 링크를 열었다고 결제가 이루어지는 것은 아닙니다. 앱을 내려받는 비용과 VPN 구독료는 별개입니다.
+
+<details>
+<summary><strong>구독한 계정으로 첫 연결</strong></summary>
 
 ## 구독한 계정으로 첫 연결
 
@@ -19,17 +30,32 @@
 3. 연결할 서버를 선택하고 앱에 연결 완료 상태가 표시되는지 확인합니다.
 4. 평소 쓰던 사이트 하나를 열어 인터넷이 정상 동작하는지 확인합니다.
 
+</details>
+
+<details>
+<summary><strong>무료 다운로드와 무료 체험은 다릅니다</strong></summary>
+
 ## 무료 다운로드와 무료 체험은 다릅니다
 
 앱을 무료로 내려받아도 일반 VPN 서비스를 쓰려면 구독이 필요합니다. 공식 다운로드 안내에서 대한민국은 Android 신규 가입 체험의 제외 지역에 포함됩니다.
 
 30일 환불 보장은 먼저 결제한 뒤 조건에 따라 환불을 요청하는 제도입니다. 구매할 때 결제 경로와 환불 조건을 함께 읽어 두세요.
 
+</details>
+
+<details>
+<summary><strong>연결은 됐는데 사이트가 안 열리면</strong></summary>
+
 ## 연결은 됐는데 사이트가 안 열리면
 
 앱의 연결 표시와 특정 사이트의 접속 여부를 나누어 확인하세요. 여러 사이트가 모두 안 되는지, 한 곳에서만 문제가 생기는지를 알면 다음 조치를 고르기 쉽습니다.
 
 아래의 연결 문제 안내에서 확인 순서를 이어갈 수 있습니다. 설치 문제가 생겼다면 사용 중인 운영체제와 앱 버전, 화면에 나온 오류 문구를 기록해 공식 지원에 전달하세요.
+
+</details>
+
+<details>
+<summary><strong>기기별 공식 설치 안내</strong></summary>
 
 ## 기기별 공식 설치 안내
 
@@ -39,10 +65,20 @@
 - [Android 앱 설치 안내](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=156593&url_id=60)
 - [iPhone·iPad 앱 설치 안내](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=156593&url_id=191)
 
+</details>
+
+<details>
+<summary><strong>이어서 보기</strong></summary>
+
 ## 이어서 보기
 
 - [NordVPN 연결 후 사이트가 안 열릴 때](nordvpn-connection.ko.md)
 - [요금제·갱신·환불 조건](nordvpn.ko.md)
+
+</details>
+
+<details>
+<summary><strong>공식 출처와 확인일</strong></summary>
 
 ## 공식 출처와 확인일
 
@@ -52,3 +88,11 @@
 - [30일 환불 보장 안내](https://nordvpn.com/ko/risk-free-vpn/)
 
 내용 확인일·GitHub판 편집일: 2026-09-15. AppGuide+가 작성한 독립 가이드입니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/nordvpn/setup/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

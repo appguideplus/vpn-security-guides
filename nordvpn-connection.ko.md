@@ -1,8 +1,16 @@
+![AppGuide+ VPN & PASSWORDS](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # NordVPN 연결 후 사이트가 안 열릴 때
 
 VPN 자체가 연결되지 않는 경우와 연결 후 특정 사이트만 안 되는 경우를 나누어 확인하세요. 유료 플랜을 바꾸기 전에 문제 범위부터 좁히세요.
 
-[NordVPN](nordvpn.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/nordvpn/connection/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/nordvpn/connection/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 기본 인터넷과 VPN 구분
 
@@ -10,11 +18,19 @@ VPN 연결을 잠시 멈추고 신뢰하는 같은 사이트에 접속해 봅니
 
 VPN을 켰을 때만 문제가 생기면 서버 위치를 바꾸어 비교합니다. 모든 사이트에서 발생하는지, 특정 앱에서만 발생하는지도 기록하세요.
 
+<details>
+<summary><strong>설정은 하나씩 비교</strong></summary>
+
 ## 설정은 하나씩 비교
 
 사용 중인 연결 방식과 사용자 지정 DNS 설정을 확인합니다. 이전 값을 기록하고 공식 도움말에 따라 한 항목씩 비교하세요.
 
 사이트 보안 경고를 무시하거나 보호 기능을 모두 영구 해제하지 마세요. 확장 프로그램과 앱이 동시에 동작하는지도 살펴보면 원인을 구분하는 데 도움이 됩니다.
+
+</details>
+
+<details>
+<summary><strong>로그인과 기기 한도</strong></summary>
 
 ## 로그인과 기기 한도
 
@@ -22,17 +38,32 @@ VPN을 켰을 때만 문제가 생기면 서버 위치를 바꾸어 비교합니
 
 Session Limit Reached가 표시되면 연결된 기기와 세션을 확인합니다. 다른 사람의 세션을 임의로 종료하거나 계정을 반복해서 새로 만들지 마세요.
 
+</details>
+
+<details>
+<summary><strong>지원에 전달할 내용</strong></summary>
+
 ## 지원에 전달할 내용
 
 운영체제, 앱 버전, 연결 위치, 정확한 오류와 VPN을 껐을 때의 차이를 정리합니다.
 
 문제 재현에 비밀번호나 결제 내역 전체가 필요하지는 않습니다. 진단 자료는 공식 지원 경로로 전달하세요.
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [NordVPN 설치: PC·Android·아이폰에서 시작하기](nordvpn-setup.ko.md)
 
 - [NordVPN 요금제 선택: 결제 기간·갱신·기기 수 안내](nordvpn.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -42,3 +73,11 @@ Session Limit Reached가 표시되면 연결된 기기와 세션을 확인합니
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-15.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/nordvpn/connection/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

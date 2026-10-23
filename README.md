@@ -1,82 +1,52 @@
-# VPN 연결과 비밀번호 관리: NordVPN·NordPass·Surfshark·Proton
+![AppGuide+ 연결은 편하게, 계정은 안전하게](cover.svg)
 
+[전체 앱](https://github.com/appguideplus/app-guides#readme) / 연결은 편하게, 계정은 안전하게
 
-NordVPN, Surfshark, Proton VPN의 연결 안내와 NordPass·Proton Pass 비밀번호 관리 안내를 분리해 제공합니다.
+# 연결은 편하게, 계정은 안전하게
 
+VPN 첫 연결, 비밀번호 이전, 결제와 갱신 조건을 나누어 안내합니다.
 
-## 바로가기
+**[웹사이트에서 앱 둘러보기 →](https://appguideplus.com/ko/apps/?utm_source=github)** · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
 
+## 어디서 시작할까요?
 
-- [AppGuide+ 전체목차](https://github.com/appguideplus/app-guides/blob/main/README.md)
-- [앱별 웹 가이드](https://appguideplus.com/ko/apps/?utm_source=github) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
+### NordVPN 요금제 선택
 
+**[선택 기준·기능](nordvpn.ko.md)** · [웹에서 보기](https://appguideplus.com/ko/nordvpn/?utm_source=github)
 
-## 서비스별 목차
+- [NordVPN 연결 후 사이트가 안 열릴 때](nordvpn-connection.ko.md)
+- [NordVPN 설치: PC·Android·아이폰에서 시작하기](nordvpn-setup.ko.md)
 
+### Proton Pass 무료·Plus 비교
 
-### VPN
+**[선택 기준·기능](proton-pass.ko.md)** · [웹에서 보기](https://appguideplus.com/ko/proton-pass/?utm_source=github)
 
+- [Proton Pass로 비밀번호 옮기기와 자동완성 확인](proton-pass-import-and-autofill.ko.md)
 
-| 서비스 소개 | 단계별 가이드 |
-| --- | --- |
-| [NordVPN 요금제 선택: 결제 기간·갱신·기기 수 안내](nordvpn.ko.md) | [NordVPN 설치: PC·Android·아이폰에서 시작하기](nordvpn-setup.ko.md)<br>[NordVPN 연결 후 사이트가 안 열릴 때](nordvpn-connection.ko.md)<br>[자동 갱신 해지·결제처별 환불](https://appguideplus.com/ko/nordvpn/cancel-and-refund/?utm_source=github) |
-| [Surfshark 요금제: Starter·One 선택과 기기 연결 안내](surfshark.ko.md) | [Surfshark Bypasser 설정: 특정 앱만 VPN에서 제외하기](surfshark-bypasser.ko.md)<br>[Surfshark 첫 연결과 자동 연결 설정](surfshark-setup.ko.md) |
-| [Proton VPN 무료·Plus 비교: 기기 수와 서버 선택](proton-vpn.ko.md) | [Proton VPN 시작하기: 무료 계정과 앱 연결](proton-vpn-getting-started.ko.md) |
+### Proton VPN 무료·Plus 비교
 
+**[선택 기준·기능](proton-vpn.ko.md)** · [웹에서 보기](https://appguideplus.com/ko/proton-vpn/?utm_source=github)
 
-### 비밀번호 관리
+- [Proton VPN 시작하기: 무료 계정과 앱 연결](proton-vpn-getting-started.ko.md)
 
+### Surfshark 요금제
 
-| 서비스 소개 | 단계별 가이드 |
-| --- | --- |
-| [NordPass 무료·Premium 차이: 기기 제한과 선택 기준](https://appguideplus.com/ko/nordpass/?utm_source=github) | [NordPass 첫 설정: 비밀번호 가져오기·복구 코드·기기 전환](https://appguideplus.com/ko/nordpass/getting-started/?utm_source=github) |
-| [Proton Pass 무료·Plus 비교: 비밀번호와 이메일 별칭 관리](proton-pass.ko.md) | [Proton Pass로 비밀번호 옮기기와 자동완성 확인](proton-pass-import-and-autofill.ko.md) |
+**[선택 기준·기능](surfshark.ko.md)** · [웹에서 보기](https://appguideplus.com/ko/surfshark/?utm_source=github)
 
+- [Surfshark Bypasser 설정: 특정 앱만 VPN에서 제외하기](surfshark-bypasser.ko.md)
+- [Surfshark 첫 연결과 자동 연결 설정](surfshark-setup.ko.md)
 
-## Chrome 비밀번호를 NordPass로 옮길 때
+## 더 필요한 안내
 
+- [자동 갱신 해지·결제처별 환불](https://appguideplus.com/ko/nordvpn/cancel-and-refund/?utm_source=github)
+- [NordPass 무료·Premium 차이: 기기 제한과 선택 기준](https://appguideplus.com/ko/nordpass/?utm_source=github)
+- [NordPass 첫 설정: 비밀번호 가져오기·복구 코드·기기 전환](https://appguideplus.com/ko/nordpass/getting-started/?utm_source=github)
+- [구독료 비교 계산기](https://appguideplus.com/ko/tools/subscription-cost/?utm_source=github)
 
-Chrome에서 CSV를 내보내 NordPass로 가져온 뒤, 자주 쓰는 사이트에 실제로 로그인해 보세요. 확인 전에는 Chrome의 원래 항목을 지우지 말고, 가져오기가 끝나면 내보낸 CSV를 정리하세요.
+---
 
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
 
-[Chrome 내보내기·가져오기 순서](https://appguideplus.com/ko/nordpass/getting-started/?utm_source=github)
+각 문서에 공식 출처와 내용 확인일이 있습니다. 요금·쿠폰 조건은 연결된 서비스 화면에서도 확인하세요.
 
-
-## 할인·첫 결제 총액을 비교할 때
-
-2026년 10월 21일 한국 원화 공식 요금표 기준입니다. 아래 금액은 월별 청구액이 아닌 첫 27개월 선결제 총액이며, 부가세가 추가될 수 있습니다. 표시 가격과 갱신 조건은 지역·행사에 따라 달라집니다.
-
-| 서비스 | 확인한 첫 결제 조건 | 최신 안내 |
-| --- | --- | --- |
-| NordVPN | 베이직 107,730원·컴플리트 134,730원, 추가 3개월 포함 | [첫 결제·갱신가 비교](https://appguideplus.com/ko/nordvpn/?utm_source=github) |
-| NordPass | Premium 26,730원·Family 80,730원, 추가 3개월 포함 | [무료·유료 선택](https://appguideplus.com/ko/nordpass/?utm_source=github) |
-| Surfshark | Starter·One 70,200원, 추가 3개월 포함. 이후 갱신가는 서로 다름 | [플랜·갱신가 비교](https://appguideplus.com/ko/surfshark/?utm_source=github) |
-
-제휴 안내: 연결된 웹 안내의 제휴 링크를 통한 구매에 따라 운영자가 수수료를 받을 수 있습니다.
-
-## 출처와 업데이트
-
-
-각 글에서 공식 도움말 출처와 내용 확인일을 확인할 수 있습니다. AppGuide+가 작성한 독립 가이드이며 각 서비스의 공식 고객센터는 아닙니다.
-
-
-목차 업데이트: 2026-10-21.
-
-
-
-
-
-
-
-## 이용 기간이 다른 할인 요금 비교
-
-
-
-[구독료 비교 계산기](https://appguideplus.com/ko/tools/subscription-cost/?utm_source=github)에서 NordVPN Basic·Complete와 Surfshark Starter·One 중 두 상품과 12·27·36개월을 선택하세요. 가격 입력 없이 같은 기간의 선결제 합계를 비교할 수 있습니다. 미리 제공하는 가격은 2026-10-23에 확인한 한국 원화 세전 기록이며 실시간 견적은 아닙니다.
-
-다른 구독이나 가격은 ‘다른 가격을 직접 입력해 비교’를 열어 첫 결제와 갱신의 총액·개월 수를 입력하세요. 예를 들어 27개월 할인과 12개월 갱신은 월 환산 가격만 비교하면 다음 결제 차이를 놓칠 수 있습니다.
-
-
-
-비교 기간 뒤 남는 선결제 개월도 표시합니다. 실제 결제창의 같은 통화·세금 기준을 사용하며, 환율·환불·가격 변경은 자동 계산하지 않습니다. 모르는 갱신 가격을 0으로 넣지 마세요.
-
+목차 편집: 2026-10-23.

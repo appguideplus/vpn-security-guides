@@ -1,8 +1,16 @@
+![AppGuide+ VPN & PASSWORDS](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # Surfshark Bypasser 설정: 특정 앱만 VPN에서 제외하기
 
 VPN은 유지하면서 특정 앱을 평소 회선으로 연결하고 싶을 때 Bypasser를 씁니다. Windows와 Android의 메뉴가 조금 달라 각각의 순서로 정리했습니다.
 
-[Surfshark](surfshark.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/surfshark/bypasser/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/surfshark/bypasser/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 두 가지 모드 중 무엇을 고를까
 
@@ -15,6 +23,9 @@ VPN은 유지하면서 특정 앱을 평소 회선으로 연결하고 싶을 때
 
 출처: [Windows Bypasser](https://support.surfshark.com/hc/en-us/articles/360017349293-How-to-use-Surfshark-Bypasser-on-Windows) · [Android Bypasser](https://support.surfshark.com/hc/en-us/articles/360008068220-How-to-use-Bypasser-for-Android)
 
+<details>
+<summary><strong>Windows에서 앱 제외</strong></summary>
+
 ## Windows에서 앱 제외
 
 실행 파일이 여러 개인 프로그램은 실제 통신을 담당하는 앱을 목록에서 선택해야 합니다.
@@ -25,6 +36,11 @@ VPN은 유지하면서 특정 앱을 평소 회선으로 연결하고 싶을 때
 4. VPN에 다시 연결한 뒤 선택한 앱을 실행합니다.
 
 출처: [Windows Bypasser](https://support.surfshark.com/hc/en-us/articles/360017349293-How-to-use-Surfshark-Bypasser-on-Windows)
+
+</details>
+
+<details>
+<summary><strong>Android에서 앱 제외</strong></summary>
 
 ## Android에서 앱 제외
 
@@ -37,11 +53,21 @@ Windows의 실행 파일 선택 대신 휴대폰에 설치된 앱 목록을 사�
 
 출처: [Android Bypasser](https://support.surfshark.com/hc/en-us/articles/360008068220-How-to-use-Bypasser-for-Android)
 
+</details>
+
+<details>
+<summary><strong>사이트만 제외하려면</strong></summary>
+
 ## 사이트만 제외하려면
 
 Windows에서는 Websites / IP addresses 아래의 Bypass VPN을 켜고 Add websites or IP addresses에 주소를 추가합니다. Android에서는 websites selected → Add Website → 주소 입력 → Save 순서입니다. 설정 뒤 VPN을 다시 연결합니다.
 
 출처: [Windows Bypasser](https://support.surfshark.com/hc/en-us/articles/360017349293-How-to-use-Surfshark-Bypasser-on-Windows) · [Android Bypasser](https://support.surfshark.com/hc/en-us/articles/360008068220-How-to-use-Bypasser-for-Android)
+
+</details>
+
+<details>
+<summary><strong>설정 후 무엇이 달라지는가</strong></summary>
 
 ## 설정 후 무엇이 달라지는가
 
@@ -51,10 +77,20 @@ Windows에서는 Websites / IP addresses 아래의 Bypass VPN을 켜고 Add webs
 
 출처: [Windows Bypasser](https://support.surfshark.com/hc/en-us/articles/360017349293-How-to-use-Surfshark-Bypasser-on-Windows) · [Android Bypasser](https://support.surfshark.com/hc/en-us/articles/360008068220-How-to-use-Bypasser-for-Android) · [다른 기기의 Bypasser 안내](https://support.surfshark.com/hc/en-us/sections/33423766608274-Bypasser)
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [Surfshark 요금제: Starter·One 선택과 기기 연결 안내](surfshark.ko.md)
 - [Surfshark 첫 연결과 자동 연결 설정](surfshark-setup.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -65,3 +101,11 @@ Windows에서는 Websites / IP addresses 아래의 Bypass VPN을 켜고 Add webs
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/surfshark/bypasser/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.
